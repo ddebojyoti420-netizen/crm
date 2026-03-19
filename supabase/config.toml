@@ -1,0 +1,4 @@
+project_id = "ufsybkjaucwmocdjkdua"
+
+[functions.attendance-punch]
+verify_jwt = false
